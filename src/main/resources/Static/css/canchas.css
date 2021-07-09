@@ -1,0 +1,51 @@
+body{
+    background-color: #DDD4D4;
+    font-family: Arial;
+}
+#main-container{
+    margin-right: 30px;
+    width: 700px;
+}
+h1 {
+    font: oblique bold 200% cursive;
+    color: #C52020;
+    margin: 10px auto;
+    text-align: right;
+    font-family: cursive
+}
+input{
+    border-radius: .5em;
+    border-color: #C52020 ;
+}
+input:hover{
+    background-color: #C52020;
+
+}
+table{
+    border:white 5px solid;
+    background-color: white;
+    border-collapse: collapse;
+    text-align: left;
+    image-aling: left;
+    width: auto;
+}
+
+th,td{
+    border:solid 2px darkred;
+    padding: 10px;
+
+}
+thead {
+    text-align: center;
+    border:white 5px solid;
+    background-color: #C52020;
+    border-bottom: solid 2px white;
+    color: white;
+}
+tr:nth-child(even){
+    background-color:#FE6C5B ;
+}
+tr:hover td{
+    background-color: #C52020;
+    color: white;
+}

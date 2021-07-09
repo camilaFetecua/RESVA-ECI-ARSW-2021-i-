@@ -1,0 +1,45 @@
+body{
+    background: url('./img/FondoEscuela.jpg') no-repeat center center fixed;
+    -webkit-background-size: auto;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h1{
+    background-color: rgba(235, 235, 235, 0.62);
+    font: oblique bold 300% cursive;
+    color: black;
+    margin: 55px auto;
+    text-align: center;
+    font-family: cursive;
+}
+#main-container{
+    margin: 30px auto;
+    width: 700px;
+}
+
+table{
+    background-color: rgba(235, 235, 235, 0.62);
+    border-collapse: collapse;
+    text-align: left;
+    image-aling: left;
+    width: 600px;
+    margin:0 auto;
+}
+
+th,td{
+    border:solid 5px #A2231D;
+    padding: 10px;
+}
+thead{
+    background-color:#A2231D;
+    border-bottom: solid 5px #A2231D;
+    color: black;
+}
+tr:nth-child(even){
+    background-color:#ff3f3f;
+}
+tr:hover td,th{
+    background-color: #A2231D;
+    color: black;
+}
