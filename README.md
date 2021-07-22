@@ -30,11 +30,12 @@
   
   ## Diagrama de clases 
 
+ ![Imagen](https://github.com/camilaFetecua/RESVA-ECI-ARSW-2021-i-/blob/master/Imagenes%20Readme/DiagramaClases.JPG)
 ## Diagramas
 
- ![Imagen](https://github.com/camilaFetecua/RESVA-ECI-ARSW-2021-i-/blob/master/Imagenes/PrimerImagen.PNG)
+ ![Imagen](https://github.com/camilaFetecua/RESVA-ECI-ARSW-2021-i-/blob/master/Imagenes%20Readme/Daigrama1.JPG)
 
-  ![Imagen](https://github.com/camilaFetecua/RESVA-ECI-ARSW-2021-i-/blob/master/Imagenes/Imagen2.png)
+  ![Imagen](https://github.com/camilaFetecua/RESVA-ECI-ARSW-2021-i-/blob/master/Imagenes%20Readme/Daigrama2.JPG)
 
 ## Historias de Usuario
 
@@ -70,16 +71,8 @@ PARA poder informar a los usuarios las canchas existentes en la escuela.
 
   + Al eliminar la cancha se debe solicitar al administrador solo el nombre de la cancha.
 
-### 4.Reporte de las canchas más utilizadas
-COMO administrador 
-QUIERO tener un reporte de las canchas más utilizadas
-PARA poder informar a los directivos sobre el alcance que tienen estos servicios.
 
-**Criterios de aceptación**
-
-  + El reporte debe mostrar algunos de los detalles de la cancha como: nombre, ubicación, estado y foto. El reporte debe estar organizado de manera que salga de primeras las canchas que tengan más número de registro de alquiler.
-
-### 5.Consultar canchas
+### 4.Consultar canchas
 COMO usuario
 QUIERO poder consultar la cancha 
 PARA poder conocer su disponibilidad y poder tomarla en prestamos 
